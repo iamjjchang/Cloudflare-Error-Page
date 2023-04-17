@@ -4,8 +4,8 @@ This repository contains [Cloudflare custom error pages](https://support.cloudfl
 
 | Type | Description | URL |
 |---|---|---|
-| Basic Security Challenge | Basic security challenge page presented to visitors. | https://iamjjchang.github.io/cloudflare-error-page/basic_challenge.html |
-| Country Challenge | Challenge page presented to visitors from blocked countries. | https://iamjjchang.github.io/cloudflare-error-page/country_challenge.html |
-| WAF Block | Presented to visitors when they trigger a Web Application Firewall rule. | https://iamjjchang.github.io/cloudflare-error-page/redirect.html |
+| Basic Security Challenge | Basic security challenge page presented to visitors. | https://iamjjchang.github.io/Cloudflare-Error-Page/basic_challenge.html |
+| Country Challenge | Challenge page presented to visitors from blocked countries. | https://iamjjchang.github.io/Cloudflare-Error-Page/country_challenge.html |
+| WAF Block | Presented to visitors when they trigger a Web Application Firewall rule. | https://iamjjchang.github.io/Cloudflare-Error-Page/redirect.html |
 | WAF Challenge | Presented to visitors when they trigger a Web Application Firewall rule. | https://iamjjchang.github.io/Cloudflare-Error-Page/waf_challenge.html |
 
